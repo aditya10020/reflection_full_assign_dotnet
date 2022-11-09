@@ -1,0 +1,12 @@
+D:\adi_assi\Rentlib\bin\Debug\net6.0\Rentlib.deps.json
+D:\adi_assi\Rentlib\bin\Debug\net6.0\Rentlib.dll
+D:\adi_assi\Rentlib\bin\Debug\net6.0\Rentlib.pdb
+D:\adi_assi\Rentlib\obj\Debug\net6.0\Rentlib.csproj.AssemblyReference.cache
+D:\adi_assi\Rentlib\obj\Debug\net6.0\Rentlib.GeneratedMSBuildEditorConfig.editorconfig
+D:\adi_assi\Rentlib\obj\Debug\net6.0\Rentlib.AssemblyInfoInputs.cache
+D:\adi_assi\Rentlib\obj\Debug\net6.0\Rentlib.AssemblyInfo.cs
+D:\adi_assi\Rentlib\obj\Debug\net6.0\Rentlib.csproj.CoreCompileInputs.cache
+D:\adi_assi\Rentlib\obj\Debug\net6.0\Rentlib.dll
+D:\adi_assi\Rentlib\obj\Debug\net6.0\refint\Rentlib.dll
+D:\adi_assi\Rentlib\obj\Debug\net6.0\Rentlib.pdb
+D:\adi_assi\Rentlib\obj\Debug\net6.0\ref\Rentlib.dll
